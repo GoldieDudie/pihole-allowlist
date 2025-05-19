@@ -39,4 +39,9 @@ forums.sonarr.tv
 
 opensubtitles.org
 
+redirector.gvt1.com
+mtalk.googel.com
+wa.me
+cds.s5x3j6q5.hwcdn.net
+
 photopea.com
