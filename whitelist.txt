@@ -38,3 +38,5 @@ apt.sonarr.tv
 forums.sonarr.tv
 
 opensubtitles.org
+
+photopea.com
